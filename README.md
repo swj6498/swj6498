@@ -4,7 +4,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=d9e1ea&height=300&section=header&text=swj6498&fontSize=90&animation=fadeIn&fontAlignY=38&desc=손원주&fontColor=ffffff&descAlignY=51&descAlign=72)
 
 
-코딩 못해요.. 잘하고싶다...
+
 <br>
 <hr>
 <br>
